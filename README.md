@@ -110,6 +110,7 @@
 * [The Python Tutorial — Python 3.5.2 documentation](https://docs.python.org/3/tutorial/)
 * [Python for Finance](https://book.douban.com/subject/25921015/)
 * [Algorithmic Thinking](https://www.coursera.org/learn/algorithmic-thinking-1) - Python 算法思维训练
+* [data science certification](https://intellipaat.com/r-programming-certification-training/) - R Programming
 
 #### 库
 * [awesome-python: A curated list of awesome Python frameworks, libraries, software and resources](https://github.com/vinta/awesome-python)
